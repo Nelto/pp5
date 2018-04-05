@@ -1,0 +1,3 @@
+﻿  ppLab5.cpp
+c1xx : warning C4199: двухэтапный поиск имен не поддерживается для C++/CLI, C++/CX или OpenMP. Используйте /Zc:twoPhase-
+  ppLab5.vcxproj -> C:\c++ proj\ppLab5\Debug\ppLab5.exe
